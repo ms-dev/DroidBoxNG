@@ -5,5 +5,5 @@ For relevant details about DroidBox visit:
 https://code.google.com/p/droidbox/
 
 
-DroidBox is build on top of a project called Taintdroid. I've used Taintdroid 4.3 for porting DroidBox. Taintdroid is released under the Apache License 2.0. Refer to LICENSE for details. All relevant information about Taintdroid is available under:
+DroidBox is build on top of a project called Taintdroid. All credits belongs to project members who worked on it. I've used Taintdroid 4.3 for porting DroidBox. Taintdroid is released under the Apache License 2.0. Refer to LICENSE for details. All relevant information about Taintdroid is available under:
 http://www.appanalysis.org
